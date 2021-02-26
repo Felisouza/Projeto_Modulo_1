@@ -15,13 +15,15 @@ Fluxo: 1.
               - Condições de vitória (pelo menos 2)
               - Condições de derrota (pelo menos 4)
 
-## Tema
+<h2 style = 'color:red;'> Tema </h2>
+
 - Fim do mundo  :crocodile: :syringe:
 - Com um toque mais cômico  :laughing:
 
-## Enredo
+<h2 style = 'color:red;'> Enredo </h2>
 
-## Personagens
+<h2 style = 'color:red;'> Personagens</h2>
+
 1. Personagem 1
 - 
 2. Personagem 2
