@@ -210,11 +210,11 @@ def jogo():
                 f'O que você vai fazer?\n')
             fazer = que_fazer()
             if fazer == '1':
-                if personagem == '1':
+                if personagem == 'cloroquiner':
                     print('\nCloroquina não é eficaz contra o Corona Vírus, muito menos contra reptilianos\n')
                     perde()
                     joga_novamente()
-                elif personagem == '2':
+                elif personagem == 'ivermectiner':
                     print('Ivermectina não é eficaz contra o Corona Vírus, muito menos contra reptilianos\n')
                     perde()
                     joga_novamente()
