@@ -214,7 +214,7 @@ def jogo():
                     print('\nCloroquina não é eficaz contra o Corona Vírus, muito menos contra reptilianos\n')
                     perde()
                     joga_novamente()
-                elif personagem == 'ivermectiner':
+                elif personagem == 'ivermectiner':#teste
                     print('Ivermectina não é eficaz contra o Corona Vírus, muito menos contra reptilianos\n')
                     perde()
                     joga_novamente()
