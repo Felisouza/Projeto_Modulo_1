@@ -1,11 +1,20 @@
 # Projeto_Modulo_1
+![Capa](\capa.jpg)
 
-<h2 style = 'color:red;'> O jogo </h2>
-No jogo quem define os caminhos do personagem principal é você. O jogo é simples, são oferecidas duas possibilidades dentro da história, numeradas com 1 e 2, em que você poderá escolher apenas uma. E suas escolhas é que desenrolarão o andar da história.
+<h2 style = 'color:red;'> Resumo </h2>
+O jogo desenvolvido é um projeto de fechamento do primeiro módulo da formação para ciêntista de dados. Curso oferecido pela Resilia em parceria com a Ifood.  
+
+O jogo brinca com teorias da conspiração. Brinca com a teoria da conspiração dos reptilianos. Os reptilianos são humanoides, meio repteis, que se infiltraram em governos e comandam o mundo por trás dos panos. Líderes mundiais, como o Barack Obama e a Rainha Elizabeth II são apontados como reptilianos. Brinca também com a teoria da conspiração de que a vacina contra o Corona vírus transformaria as pessoas em jacarés.
+No mundo distópico do jogo os reptilianos, tomaram o mundo transformando os humanos em jacarés, através das vacinas contra o Corona vírus.
+No jogo, você é um conspiracionista que não tomou a vacina, pois acredita na eficácia da cloroquina, ivermectina e chá de gengibre contra o Corona vírus.
+Trancado em sua casa, você recebe a visita da Rainha Elizabeth II e deve lidar com ela para não ser transformado em jacaré.
+
+<h2 style = 'color:red;'> Como funciona </h2>
+No jogo quem define os caminhos do personagem principal é você. O jogo é simples. Existe uma história que pode seguir o caminho que o jogador desejar. Conforme a história vai sendo contada são oferecidas possibilidades a serem escolhidas. As possibilidades são numeradas, e o jogador deve digitar um desses números. O usuário poderá escolher apenas uma. E suas escolhas é que desenrolarão o andar da história.
 
 <h2 style = 'color:red;'> Tema </h2>
 
-- Fim do mundo  :crocodile: :syringe:
+- Apocalipse  :crocodile: :syringe:
 - Com um tom cômico  :laughing:
 
 <h2 style = 'color:red;'> Enredo </h2>
@@ -19,14 +28,14 @@ Você está com seu parceiro dentro de sua casa trancado. Tentando sobreviver em
 <br>
 Você deve sobreviver!
 
-<h2 style = 'color:red;'> Personagens</h2>
+<h2 style = 'color:red;'> Personagens possíveis</h2>
 
-1. Personagem 1 - Barack Obama
-2. Personagem 2 - Rainha Elizabeth
-3. Personagem 3 - Zeca Pagodinho
+1. Personagem 1 - Cloroquiner
+2. Personagem 2 - Ivermectiner
+3. Personagem 3 - Chazinho de gengibrer
 
 <h2 style = 'color:red;'> Locais </h2>
 
 - Porta
 - Cozinha
-- Sala
+- Porão
