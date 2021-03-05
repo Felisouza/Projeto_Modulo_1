@@ -1,6 +1,6 @@
 <h1>Projeto_Modulo_1</h1>
 
-![Capa](\capa.jpg)
+![Capa](capa.jpg)
 
 <h2 style = 'color:red;'> Resumo </h2>
 O jogo desenvolvido é um projeto de fechamento do primeiro módulo da formação para ciêntista de dados. Curso oferecido pela Resilia em parceria com a Ifood.  
